@@ -8,3 +8,8 @@ La aplicación Onyx es una herramienta digital: es una aplicación de organizaci
 La app contara con un registro e iniciar sesión, esto permite que cada persona administre únicamente su propio contenido. Ofrecerá herramientas para crear, editar, eliminar y observar notas o actividades.
 
 La finalidad principal de la aplicación es apoyar a los usuarios en mejorar la organización personal, para hacerlos más productivos, proporcionando un espacio digital practico y accesible donde puedan almacenar información importante y estar al pendiente de este mismo.
+
+2. ### **Integrantes**
+
+3. <img width="900" height="1026" alt="fotoLFAZ" src="https://github.com/user-attachments/assets/0e6b91bc-00c0-4cf3-88c5-a961afdb3693" />
+
