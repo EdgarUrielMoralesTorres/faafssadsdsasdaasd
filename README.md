@@ -9,7 +9,7 @@ La app contara con un registro e iniciar sesión, esto permite que cada persona 
 
 La finalidad principal de la aplicación es apoyar a los usuarios en mejorar la organización personal, para hacerlos más productivos, proporcionando un espacio digital practico y accesible donde puedan almacenar información importante y estar al pendiente de este mismo.
 
-2. ### **Integrantes**
+2. ## **Integrantes**
 - Alvarez Zandate Luis Fernando <br>
   23308060610105 <br>
   <img width="200" height="200" alt="fotoLFAZ" src="https://github.com/user-attachments/assets/0e6b91bc-00c0-4cf3-88c5-a961afdb3693" />
