@@ -1,5 +1,5 @@
 # Documentación de Aplicación
-## **Descripcion del proyecto**
+1. ## **Descripcion del proyecto**
 
 La falta de organización y administración adecuada de la información personal, académica y laboral representa un problema frecuente para muchas personas, ya que en diversas ocasiones las notas, tareas e ideas se encuentran dispersas en diferentes medios físicos o digitales. Esto puede provocar pérdida de información importante, dificultades para dar seguimiento a actividades y una disminución en la productividad.
 
