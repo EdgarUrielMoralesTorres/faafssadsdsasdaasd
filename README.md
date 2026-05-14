@@ -12,10 +12,14 @@ La finalidad principal de la aplicación es apoyar a los usuarios en mejorar la 
 2. ## **Integrantes**
 - Alvarez Zandate Luis Fernando <br>
   23308060610105 <br>
+  Grado = 6-D <br>
+  Especialidad = Programacion <br>
   <img width="200" height="200" alt="fotoLFAZ" src="https://github.com/user-attachments/assets/0e6b91bc-00c0-4cf3-88c5-a961afdb3693" />
 
 - Morales Torres Edgar Uriel <br>
   23308060610613 <br>
+  Grado = 6-D <br>
+  Especialidad = Programacion <br>
   <img width="200" height="200" alt="fotini" src="https://github.com/user-attachments/assets/37117616-f5fd-4680-911b-03388fda27b8" />
 
 
